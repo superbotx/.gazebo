@@ -4,7 +4,14 @@ Released under the Apache 2 License.
 http://gazebosim.org
 
 
-(1521866192 48792952) [Msg] Waiting for master.
-(1521866192 49869821) [Msg] Connected to gazebo master @ http://127.0.0.1:11345
-(1521866192 49983501) [Msg] Publicized address: 172.17.0.1
-(1521866192 747538131) Init world[default]
+(1521872026 562079875) [Msg] Waiting for master.
+(1521872026 564520146) [Msg] Connected to gazebo master @ http://127.0.0.1:11345
+(1521872026 564699142) [Msg] Publicized address: 172.17.0.1
+(1521872028 172611928) [Wrn] [msgs.cc:1655] Conversion of sensor type[depth] not suppported.
+(1521872028 226328116) Init world[default]
+(1521872028 441675567) [Wrn] [Event.cc:87] Warning: Deleteing a connection right after creation. Make sure to save the ConnectionPtr from a Connect call
+(1521872028 487965832) [Wrn] [msgs.cc:1655] Conversion of sensor type[depth] not suppported.
+(1521872028 489695731) [Err] [Scene.cc:2927] Light [sun] not found. Use topic ~/factory/light to spawn a new light.
+(1521872028 689371662) [Wrn] [msgs.cc:1655] Conversion of sensor type[depth] not suppported.
+(1521872029 291700444) [Wrn] [msgs.cc:1655] Conversion of sensor type[depth] not suppported.
+(1521872091 441222960) [Wrn] [Publisher.cc:140] Queue limit reached for topic /gazebo/default/pose/local/info, deleting message. This warning is printed only once.

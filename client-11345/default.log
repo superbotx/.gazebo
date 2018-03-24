@@ -4,11 +4,10 @@ Released under the Apache 2 License.
 http://gazebosim.org
 
 
-(1521866192 24122614) [Msg] Waiting for master.
-(1521866192 24366789) Failed to create connection to remote host[localhost:11345]
-(1521866193 27699648) [Msg] Connected to gazebo master @ http://127.0.0.1:11345
-(1521866193 28196766) [Msg] Publicized address: 172.17.0.1
-(1521866193 28565832) Loaded .ini file from: "/home/ashis/.gazebo/gui.ini"
-(1521866193 886384436) [Wrn] [Event.cc:87] Warning: Deleteing a connection right after creation. Make sure to save the ConnectionPtr from a Connect call
-(1521866194 324482721) No spacenav daemon found. Spacenav functionality is disabled
-(1521866699 541320572) [Wrn] [Publisher.cc:140] Queue limit reached for topic /gazebo/default/user_camera/pose, deleting message. This warning is printed only once.
+(1521872026 592598471) [Msg] Waiting for master.
+(1521872026 594847911) [Msg] Connected to gazebo master @ http://127.0.0.1:11345
+(1521872026 595029712) [Msg] Publicized address: 172.17.0.1
+(1521872026 595138806) Loaded .ini file from: "/home/ashis/.gazebo/gui.ini"
+(1521872029 117884105) No spacenav daemon found. Spacenav functionality is disabled
+(1521872029 251685075) [Err] [Scene.cc:2927] Light [sun] not found. Use topic ~/factory/light to spawn a new light.
+(1521872091 880220928) [Wrn] [Publisher.cc:140] Queue limit reached for topic /gazebo/default/user_camera/pose, deleting message. This warning is printed only once.
